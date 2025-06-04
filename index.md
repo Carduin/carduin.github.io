@@ -14,7 +14,7 @@ description: Mes travaux publics
 ## 🎤 Mes Talks
 
 ### 🔹 Fini d'hiberner avec Hypersistence ! 🐻  
-**Événement** : Pas encore présentée 😉
+**Événement** : Pas encore présentée 😉  
 **Pitch** : Si vous avez une application Java avec une base de données, les chances sont fortes pour que vous utilisiez au pire une implémentation obscure de JPA, au mieux Hibernate. Et c'est normal : pas besoin de réinventer la roue. Mais une roue, ca s'entretient, et une couche d'accès aux données aussi !
 Hypersistence Optimizer propose un moyen simple et automatique de maintenir des bonnes pratiques pour conserver les performances de la query layer de votre application.
  
