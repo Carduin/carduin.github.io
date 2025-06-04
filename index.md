@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 😎 Qui je suis ?
+## 😎 Qui je suis ?
 
 Passionné par l'informatique depuis l'enfance, ma curiosité me pousse à continuellement développer mes compétences techniques et humaines.
 Je n’ai pas peur d’être challengé sur des domaines que je ne connais pas encore, et je m’efforce d’aborder chaque nouvelle épreuve avec fun et enthousiasme !
