@@ -14,7 +14,7 @@ description: Mes travaux publics
 ## 🎤 Mes Talks
 
 ### 🔹 Talk le tremplin Bordelais 2025
-**Pitch** : Talk qui sera présenté lors de l'édition 2025 du tremplin Bordelais, et mis à l'aide d'un coach. Objectif : etre sélectionné parmi 6 collègues pour passer à [BDX/IO](https://bdxio.fr/) ou [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
+**Pitch** : Talk qui sera présenté lors de l'édition 2025 du tremplin Bordelais, et mis à l'aide d'un coach. Objectif : etre sélectionné parmi 6 collègues pour passer à [BDX/IO](https://bdxio.fr/) ou [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)  
 **Format**: 15mns  
 **Événement** : Le tremplin Bordelais 2025  
 **Lien vidéo** : _[À venir]_  
@@ -43,7 +43,7 @@ Mais si c'est possible !
 **Social** : [Post Linkedin](https://www.linkedin.com/posts/arthurmurillo_atchoum-ce-midi-jai-pr%C3%A9sent%C3%A9-%C3%A0-la-communaut%C3%A9-activity-7287804513250377728-SeYK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA3dDEBp7yu7ybMcUed22F_FpHTxuZjdiA)  
   
 ### 🔹 BDX IO - Retour d'expérience 
-**Pitch** : Retour d'expérience à mes collègues de [SQLI](https://www.sqli.com/fr-fr) sur l'édition 2024 de BDX IO. Il s'agissait de faire un retour complet mais concis des meilleurs moments de la conférence, mais aussi de notre interprétation de la communauté technologique Bordelaise, à travers les différentes conférences présentées ce jour là
+**Pitch** : Retour d'expérience à mes collègues de [SQLI](https://www.sqli.com/fr-fr) sur l'édition 2024 de BDX IO. Il s'agissait de faire un retour complet mais concis des meilleurs moments de la conférence, mais aussi de notre interprétation de l'état de la communauté technologique Bordelaise, à travers les différents talks présentés ce jour là  
 **Format**: 15mns  
 **Événement** : SQLI - The Show  
 **Social** : [Post Linkedin](https://www.linkedin.com/posts/arthurmurillo_alors-la-hype-de-lia-cest-fini-ou-pas-activity-7273013849635622914-jUxk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA3dDEBp7yu7ybMcUed22F_FpHTxuZjdiA)
