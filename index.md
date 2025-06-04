@@ -24,5 +24,3 @@ description: Mes travaux publics
 
 - **GitHub** : [github.com/carduin](https://github.com/carduin)
 - **LinkedIn** : [linkedin.com/in/arthurmurillo](https://www.linkedin.com/in/arthurmurillo/)
-
----
