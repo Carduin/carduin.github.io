@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Arthur Murillo
+description: Mes travaux publics
 ---
 
 ## 🎤 Mes Talks
