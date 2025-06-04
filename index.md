@@ -4,6 +4,13 @@ title: Arthur Murillo
 description: Mes travaux publics
 ---
 
+## 🐙 Mes Réseaux
+
+- **GitHub** : [github.com/carduin](https://github.com/carduin)
+- **LinkedIn** : [linkedin.com/in/arthurmurillo](https://www.linkedin.com/in/arthurmurillo/)
+
+---
+
 ## 🎤 Mes Talks
 
 ### 🔹 *[Titre du Talk #1]*  
@@ -18,9 +25,3 @@ description: Mes travaux publics
 **Lien vidéo** : _[À remplir]_  
 **Image** : _[À remplir]_
 
----
-
-## 🐙 Mes Réseaux
-
-- **GitHub** : [github.com/carduin](https://github.com/carduin)
-- **LinkedIn** : [linkedin.com/in/arthurmurillo](https://www.linkedin.com/in/arthurmurillo/)
