@@ -20,7 +20,7 @@ description: Mes travaux publics
 **Lien vidéo** : _[À venir]_  
 **Social** : [Post Linkedin](https://www.linkedin.com/posts/arthurmurillo_bonne-nouvelle-le-tremplin-bordelais-est-activity-7333811379847512064-Yz4d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA3dDEBp7yu7ybMcUed22F_FpHTxuZjdiA)  
 
-### 🔹 Fini d'hiberner avec Hypersistence ! 🐻  
+### 🔹 Fini d'hiberner avec Hypersistence ! 🐻
 **Pitch** : Si vous avez une application Java avec une base de données, les chances sont fortes pour que vous utilisiez au pire une implémentation obscure de JPA, au mieux Hibernate. Et c'est normal : pas besoin de réinventer la roue. Mais une roue, ca s'entretient, et une couche d'accès aux données aussi !
 Hypersistence Optimizer propose un moyen simple et automatique de maintenir des bonnes pratiques pour conserver les performances de la query layer de votre application.
  
@@ -42,7 +42,7 @@ Mais si c'est possible !
 **Événement** : SQLI - Communauté interne Java  
 **Social** : [Post Linkedin](https://www.linkedin.com/posts/arthurmurillo_atchoum-ce-midi-jai-pr%C3%A9sent%C3%A9-%C3%A0-la-communaut%C3%A9-activity-7287804513250377728-SeYK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA3dDEBp7yu7ybMcUed22F_FpHTxuZjdiA)  
   
-### 🔹 BDX IO - Retour d'expérience 
+### 🔹 BDX IO - Retour d'expérience
 **Pitch** : Retour d'expérience à mes collègues de [SQLI](https://www.sqli.com/fr-fr) sur l'édition 2024 de BDX IO. Il s'agissait de faire un retour complet mais concis des meilleurs moments de la conférence, mais aussi de notre interprétation de l'état de la communauté technologique Bordelaise, à travers les différents talks présentés ce jour là  
 **Format**: 15mns  
 **Événement** : SQLI - The Show  
