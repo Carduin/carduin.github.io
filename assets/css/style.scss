@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 header {
-  color: white !important;
+  h1, h2, h3 {
+   color: white !important;
+  }
+  background-color: #fffaf0 !important;
 }
 
 h1, h2, h3 {
