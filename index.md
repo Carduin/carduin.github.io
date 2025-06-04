@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Arthur Murillo
 ---
 
 ## 🎤 Mes Talks
